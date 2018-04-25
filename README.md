@@ -1,2 +1,2 @@
 # KUDOS-PLUSH-TOYS
-Packt Launch Produc Site
+Packt Launch Product Site
